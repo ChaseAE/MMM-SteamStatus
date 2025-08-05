@@ -1,0 +1,8 @@
+{
+  "name": "MMM-SteamStatus",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "dependencies": {
+    "steamapi": "^3.1.3"
+  }
+}

@@ -1,0 +1,101 @@
+.my-user-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: left;
+  min-width: 300px;
+  max-width: 350px;
+  height: 160px;
+  margin: 12px 0;
+  line-height: 1;
+}
+
+.my-avatar {
+  height: 160px;
+  width: 160px;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+.my-user-info {
+  font-size: 1.6rem;
+}
+
+.my-user-info-playing {
+  color: rgb(144, 235, 116);
+}
+
+.my-user-info-online {
+  color: rgb(145, 237, 255);
+}
+
+.my-user-status {
+  font-size: 0.8rem;
+}
+
+.my-user-status-playing {
+  color: rgb(67, 228, 18);
+}
+
+.my-user-status-online {
+  color: rgb(84, 227, 255);
+}
+
+.user-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: left;
+  height: 50px;
+  margin-top: 12px;
+  line-height: 1;
+  border: 1.5px solid rgba(184, 184, 184, 0.3);
+  border-radius: 5px;
+}
+
+.user-avatar {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+  border-right: 4px solid rgb(184, 184, 184);
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+}
+
+.user-avatar-online {
+  border-right: 4px solid rgb(84, 227, 255);
+}
+
+.user-avatar-playing {
+  border-right: 4px solid rgb(67, 228, 18);
+}
+
+.user-info {
+  height: 50px;
+  align-content: center;
+}
+
+.user-info-online {
+  color: rgb(145, 237, 255);
+}
+
+.user-info-playing {
+  color: rgb(144, 235, 116);
+}
+
+.user-status {
+  font-size: 0.8rem;
+}
+
+.user-status-online {
+  color: rgb(84, 227, 255);
+}
+
+.user-status-playing {
+  color: rgb(67, 228, 18);
+}
+
+hr {
+  margin-top: 2px;
+  border-color: rgba(184, 184, 184, 0.3);
+}
