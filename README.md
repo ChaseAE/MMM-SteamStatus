@@ -42,6 +42,10 @@ Make sure to fill in the API key and Steam ID fields. Steam ID's can be found in
 
 ## Preview
 
+## Future Plans
+
+I plan adding more styling customizability so it looks better if you move it to the right side of the screen. It is currently styled for the bottom left corner but will work anywhere.
+
 ## Changelog
 
 All notable changes to this project will be documented in the [CHANGELOG.md](CHANGELOG.md) file.
