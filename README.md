@@ -9,8 +9,9 @@ This module relies on the **Steam API** and will be extended in the future to in
 ## Installation
 
 ```bash
-cd ~/MagicMirror/modules/MMM-SteamStatus
-git pull
+cd ~/MagicMirror/modules
+git clone https://github.com/ChaseAE/MMM-SteamStatus.git
+cd MMM-SteamStatus
 npm install
 ```
 
