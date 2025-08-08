@@ -11,8 +11,6 @@ This module relies on the **Steam API** and will be extended in the future to in
 ```bash
 cd ~/MagicMirror/modules
 git clone https://github.com/ChaseAE/MMM-SteamStatus.git
-cd MMM-SteamStatus
-npm install
 ```
 
 ## Updating
@@ -22,7 +20,6 @@ Update this module by navigating into its folder on the command line and using `
 ```bash
 cd ~/MagicMirror/modules/MMM-SteamStatus
 git pull
-npm ci
 ```
 
 ## Config
